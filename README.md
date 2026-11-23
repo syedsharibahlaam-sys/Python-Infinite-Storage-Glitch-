@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Infinite_Storage_Glitch
  YouTube as Cloud Storage: Store Any Files You Want
 
@@ -54,3 +55,6 @@ Overall, this program provides a simple way to convert files to binary format an
 
 
 
+=======
+# Python-Infinite-Storage-Glitch-
+>>>>>>> e5f0a0382aaec31661884056d81f275111c76d0f
